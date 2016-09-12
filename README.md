@@ -1,2 +1,3 @@
 # hello-world
 test branches tutorial
+My name is Kristen Nader.  I am a Java Developer.  I am open to new oppportunities in software development.  I have a new idea for an app that is a virtual bulletin board.  When I was growing up, we used to go to coffee houses and I loved to look at the counter or bullentin board of flyers to see what events where coming up.  I would like to create an app that allows users to create a flyer to show on a bulletin board view.  They could import a picture, use a template, or upload an existing flyer.  When you click the flyer this would allow users to see if they uploaded past shows, picutes, sound, or video.  They could also tag their friends if they want to attend an event.
